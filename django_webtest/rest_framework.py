@@ -1,3 +1,5 @@
+from __future__ import absolute_imports
+
 from django.contrib.auth import authenticate
 
 from rest_framework import authentication
